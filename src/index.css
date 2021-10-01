@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("fonts/Roboto-Regular.ttf");
+}
+
+* {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: "segoe ui", 'Helvetica', Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.coin-item {
+  display: flex;
+  align-items: center;
+}
+
+.coin-item img {
+  width: 33px;
+  height: 33px;
+}
+
+.coin-item p {
+  margin-bottom: 0;
+  padding-left: 8px;
+}
+
+.coin-item .symbol {
+  color: rgb(128, 138, 157);
+}
+
+th {
+  padding: 8px;
+}
+
+.coins p {
+  font-weight: 500;
+}
