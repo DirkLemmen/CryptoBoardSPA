@@ -39,6 +39,11 @@ When calling a private service a JWT token is needed to obtain access to an endp
 * [Auth0](https://auth0.com/)
 * [JWT tokens](https://www.youtube.com/watch?v=soGRyl9ztjI)
 
+### Portfolio service
+I use [Swagger](https://swagger.io/) for my service documentation
+
+[![swagger.png](https://i.postimg.cc/SK507b84/swagger.png)](https://postimg.cc/nsvwp50S)
+
 ## Software tooling and methodology that continuously monitors and improve the software quality during software development.
 For this learning outcome I created unit & integrations tests. These tests will approve the behavior of the code, and prevent bugs. On the images below some unit and integration tests are shown.
 
