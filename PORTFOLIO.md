@@ -63,6 +63,11 @@ A H2 database is an in-memory database I used for testing. Benefits of using thi
 ### Automated testing
 Tests are run automatically everytime there has been pushed to the branch-develop. 
 
+### Code coverage
+I use [Sonarcloud](https://sonarcloud.io/) for code coverage. With this tool I enhance my workflow with continous code quality. Sonarcloud analyzes my code every push to develop. 
+
+[![sonarcloud.png](https://i.postimg.cc/1tpqsJ5x/sonarcloud.png)](https://postimg.cc/jwS5h67v)
+
 ## Automated software release process
 
 ### CI/CD Pipeline
