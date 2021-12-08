@@ -71,7 +71,7 @@ Tests are run automatically everytime there has been pushed to the branch-develo
 ### Code coverage
 I use [Sonarcloud](https://sonarcloud.io/) for code coverage. With this tool I enhance my workflow with continous code quality. Sonarcloud analyzes my code every push to develop. 
 
-[![sonarcloud.png](https://i.postimg.cc/1tpqsJ5x/sonarcloud.png)](https://postimg.cc/jwS5h67v)
+[![sonarcloud.png](https://i.postimg.cc/y6tjPzy1/sonarcloud.png)](https://postimg.cc/6TVCWgPg)
 
 ## Automated software release process
 
