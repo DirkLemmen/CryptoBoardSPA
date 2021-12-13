@@ -114,8 +114,11 @@ All the features created as issues are visible for me and new contributors. This
 On the image below you can see that I updated a README file in an open source project. I started by creating an issue describing the problem. Next I changed the README file and created a pull request. The same day my contribution was merged in to the project.
 [![opensource-example.png](https://i.postimg.cc/qgf1Dv8L/opensource-example.png)](https://postimg.cc/q6Lcz0Dh)
 
-
 # Linked repositories
 *  [coin-service](https://github.com/DirkLemmen/cryptoboard-coin-service)
 *  [portfolio-service](https://github.com/DirkLemmen/cryptoboard-portfolio-service)
 *  [SPA](https://github.com/DirkLemmen/CryptoBoardSPA)
+
+# Researches
+* [Secure Webservice OAuth2](https://github.com/Open-Research-Dojo/secure-webservice-0Auth2)
+* [Start up your business](https://github.com/Open-Research-Dojo/start-up-your-business)
